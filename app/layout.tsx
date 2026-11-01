@@ -1,3 +1,1 @@
-import './globals.css';
-export const metadata={title:'HotelOps Intelligence MVP',description:'Evidence-backed hotel labor cost analysis demo'};
-export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
+import './globals.css';export const metadata={title:'HotelOps Intelligence MVP',description:'Evidence-backed hotel labor analysis'};export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
